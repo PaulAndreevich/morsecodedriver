@@ -1,0 +1,1 @@
+cmd_/home/parallels/iu7/CourseWork/hello.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-34-generic/scripts/module-common.lds --build-id  -o /home/parallels/iu7/CourseWork/hello.ko /home/parallels/iu7/CourseWork/hello.o /home/parallels/iu7/CourseWork/hello.mod.o
